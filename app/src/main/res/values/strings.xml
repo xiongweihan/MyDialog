@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyDialog</string>
+
+    <string-array name="liebiao">
+        <item>QQ登录</item>
+        <item>微信登录</item>
+        <item>腾讯微博登录</item>
+        <item>豆瓣登录</item>
+        <item>新浪微博登录</item>
+    </string-array>
+</resources>
